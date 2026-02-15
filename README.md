@@ -2,12 +2,11 @@
 CREACIÓN DEL PROXIMO APOYO EN INFRAESTRUCTURA DE LA DEII
 
 ////////////////Responsables de estructura de datos////////////////////
-                -Raul Marrero
-                -Daniel Perez
-                -Echedey Martel
+- Raúl Marrero
+- Daniel Perez
+- Echedey Martel
 
 ////////////////Responsables de página(FRONT)////////////////////
-                -Jerónimo Falcón
-                -Alejandro Alejo
-                -Jesus Toro
-                
+- Jerónimo Falcón
+- Alejandro Alejo
+- Jesús Toro
